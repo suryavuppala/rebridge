@@ -1,0 +1,11 @@
+{
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/delivery/page": "app/delivery/page.js",
+  "/faqs/page": "app/faqs/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/recyclers/page": "app/recyclers/page.js",
+  "/stats/page": "app/stats/page.js"
+}
